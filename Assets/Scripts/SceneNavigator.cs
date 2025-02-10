@@ -9,4 +9,9 @@ public class SceneNavigator : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("FaceTracking");
     }
+
+    public void LoadVirtualTryOnScene()
+    {
+        SceneManager.LoadSceneAsync("VirtualTryOns");
+    }
 }

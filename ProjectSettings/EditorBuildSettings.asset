@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FaceTracking.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/VirtualTryOns.unity
+    guid: 3d25d741c5e294099b41f7022210b6fb
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4cb3601db2c8c49c2a41f58955bc620b, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e0e48a6e09f644afc884bc91dfaefc7e, type: 2}
