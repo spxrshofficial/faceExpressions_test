@@ -14,4 +14,14 @@ public class SceneNavigator : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("VirtualTryOns");
     }
+
+    public void LoadMainMenuScene()
+    {
+        SceneManager.LoadSceneAsync("MainMenu");
+    }
+
+    public void LoadLoggerScene()
+    {
+        SceneManager.LoadSceneAsync("ActionLogger");
+    }
 }
